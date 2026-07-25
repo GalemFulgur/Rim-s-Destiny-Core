@@ -12,9 +12,6 @@ Want to check progress on developpement?
 This Roadmap[miro.com]showcases every current and upcoming content to the Rim's Destiny mod serie.
 
 Q&A:
-Q: Can you add [...] to [...]?
-A: If you have ideas of content to add to a specific mod please put in the mods' respective suggestion discussion below the description and I'll look into it. Depending on the content's feasability and if it fits my vision of the mod I may add it.
-
 Q: Can you make a mod about [...]
 A: Every planned mod and feature is listed in the Miro Roadmap[miro.com]. I don't plan on adding Eliksni, Scorn or Cabal for now because modders at CVN Central are already working or planning to work on them. More info here.
 I'm not affiliated with them, I just think it's better that we work on different aspect of the Destiny franchise to give players more varied content more quickly.
