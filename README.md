@@ -1,4 +1,4 @@
-# Rim-s-Destiny-Core
+# Rim-s-Destiny-Core (steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3771222941)
 What is Rim's Destiny?
 Rim's Destiny is an ongoing series of mods based on the Destiny Franchise created by Bungie.
 
