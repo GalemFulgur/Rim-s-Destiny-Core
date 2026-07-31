@@ -1,10 +1,11 @@
-# Rim-s-Destiny-Core (steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3771222941)
+# Rim-s-Destiny-Core 
 What is Rim's Destiny?
 Rim's Destiny is an ongoing series of mods based on the Destiny Franchise created by Bungie.
 
 This mod is a library of content used by multiple mods to avoid duplicates.
 
 So far only a few icons and genes have been added but more should arrive as the series progress. Still it's pretty useless on its own.
+Steam workshop link: https://steamcommunity.com/sharedfiles/filedetails/?id=3771222941)
 
 So far Rim's Destiny: Exo race (https://steamcommunity.com/sharedfiles/filedetails/?id=3771229424) is the only mod available but more will follow.
 
